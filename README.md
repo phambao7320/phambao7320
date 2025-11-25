@@ -3,7 +3,7 @@
 **`Turning coffee into pixel-perfect, blazing-fast interfaces ☕ → ⚡️`**
 
 ### 👨‍💻 About Me | Về mình
-- 🔨 2.5+ years Frontend Developer   
+- 🔨 2+ years Frontend Developer   
 - 🌱 Deep diving into **React Server Components**, **Web Performance**, **Shopify Hydrogen** & **NestJS**  
 - ⚡ Love making websites score **100 on Lighthouse** (yes, it's addictive)  
 - 💬 Enjoy writing tech blogs & mentoring junior devs  
@@ -25,23 +25,6 @@
 ### 🚀 Currently Learning | Đang học
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Web Performance](https://img.shields.io/badge/Web_Performance-FF6F61?style=flat&logo=googlechrome)
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
-
-</div>
 
 ### 👀 Profile Views
 
