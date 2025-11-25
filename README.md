@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Phạm Ngọc Bảo <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;2.5%2B+years+building+fast+UIs;Clean+code+%7C+Performance+obsessed" alt="Typing SVG" />
+# 👋 Hey there! I'm Phạm Ngọc Bảo <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;2%2B+years+building+fast+UIs;Clean+code+%7C+Performance+obsessed" alt="Typing SVG" />
 
 **`Turning coffee into pixel-perfect, blazing-fast interfaces ☕ → ⚡️`**
 
