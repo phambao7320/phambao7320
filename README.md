@@ -1,15 +1,14 @@
-# 👋 Hey there! I'm Nguyễn Văn A <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;2.5%2B+years+building+fast+UIs;Clean+code+%7C+Performance+obsessed" alt="Typing SVG" />
+# 👋 Hey there! I'm Phạm Ngọc Bảo <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;2.5%2B+years+building+fast+UIs;Clean+code+%7C+Performance+obsessed" alt="Typing SVG" />
 
 **`Turning coffee into pixel-perfect, blazing-fast interfaces ☕ → ⚡️`**
 
 ### 👨‍💻 About Me | Về mình
-- 🔨 2.5+ years Frontend Developer  
-- 🏢 Currently at **YourCompany** (or **Freelance**)  
+- 🔨 2.5+ years Frontend Developer   
 - 🌱 Deep diving into **React Server Components**, **Web Performance**, **Shopify Hydrogen** & **NestJS**  
 - ⚡ Love making websites score **100 on Lighthouse** (yes, it's addictive)  
 - 💬 Enjoy writing tech blogs & mentoring junior devs  
 - 📍 Ho Chi Minh City, Vietnam  
-- ⚽ Outside coding: coffee, gym, travel, and a bit of anime
+- ⚽ Outside coding: coffee, travel, and a bit of anime
 
 ### 🛠️ Tech Stack | Công nghệ chính
 
@@ -24,7 +23,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ### 🚀 Currently Learning | Đang học
-![React Server Components](https://img.shields.io/badge/React_Server_Components-149ECA?style=flat&logo=react)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Web Performance](https://img.shields.io/badge/Web_Performance-FF6F61?style=flat&logo=googlechrome)
 
@@ -45,16 +43,7 @@
 
 </div>
 
-### 🔥 Latest Projects | Dự án nổi bật
-
-| Project | Preview | Tech Stack | Links |
-|--------|---------|------------|-------|
-| **SuperShop Hydrogen** <br>Headless Shopify store đạt 100 Lighthouse | ![preview](https://res.cloudinary.com/dq5raq2p4/image/upload/v1732550000/super-shop-thumb.png) | Next.js 14, React Server Components, Hydrogen, Tailwind | [🌐 Live](https://your-super-shop.vercel.app) • [🐙 Code](https://github.com/YOUR_USERNAME/super-shop) |
-| **Analytics Dashboard Pro** <br>Real-time dashboard cho startup | ![preview](https://res.cloudinary.com/dq5raq2p4/image/upload/v1732550000/dashboard-thumb.png) | Next.js App Router, TypeScript, Recharts, Prisma | [🌐 Live](https://dashboard.yourname.dev) • [🐙 Code](https://github.com/YOUR_USERNAME/analytics-dashboard) |
-| **Personal Portfolio v3** <br>Portfolio siêu mượt với blog MDX | ![preview](https://res.cloudinary.com/dq5raq2p4/image/upload/v1732550000/portfolio-thumb.png) | Next.js 14, Framer Motion, MDX, Tailwind | [🌐 Live](https://yourname.dev) • [🐙 Code](https://github.com/YOUR_USERNAME/yourname.dev) |
-
 ### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=flat&label=PROFILE+VIEWS)
 
 ### 📬 Connect with me | Liên lạc
 
@@ -70,8 +59,6 @@
 <br>
 
 <div align="center">
-
-**⚡ Fun fact:** Mình từng tối ưu một trang từ 38 → 99 điểm Lighthouse chỉ trong... 1 cốc cà phê phin đá ☕
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
 
